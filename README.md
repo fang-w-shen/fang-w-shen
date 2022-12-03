@@ -90,10 +90,10 @@ Here are some ideas to get you started:
 <hr />
 <img
   align="right"
-  src="https://github-readme-stats.vercel.app/api?username=fang-w-shen&show_icons=true&hide=contribs,stars&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"
+  src="https://github-statistics.vercel.app/api?username=fang-w-shen&show_icons=true&hide=contribs,stars&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fang-w-shen&hide=ruby,php,asp&langs_count=4&hide_border=true"
+  src="https://github-statistics.vercel.app/api/top-langs/?username=fang-w-shen&hide=ruby,php,asp&langs_count=4&hide_border=true"
 />
 <hr/>
 
