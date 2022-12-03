@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <div>
   <h2>Interests</h2>
   <div>
-    <pre>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
+    <pre><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
           alt="Javascript"
           width="20px"
           height="20px"
