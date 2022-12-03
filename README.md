@@ -115,14 +115,16 @@ Here are some ideas to get you started:
           height="20px"
           src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/ftris.png"
         />
-      </a>
+      </a> 
+      <img src="https://media.giphy.com/media/FyosTV6P77XuxQhie4/giphy.gif" width="2px" /> 
       <a href="https://fang-w-shen.github.io/Professional-Portfolio/">
         <img
           alt="Portfolio"
           width="20px"
           src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/portfolio.svg"
         />
-      </a>
+      </a> 
+      <img src="https://media.giphy.com/media/FyosTV6P77XuxQhie4/giphy.gif" width="2px" />
       <a href="https://www.linkedin.com/in/fang-wen-shen/">
         <img
           alt="LinkedInLogo"
