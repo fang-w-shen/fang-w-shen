@@ -4,7 +4,9 @@
   width="100%"
 />
 
-<img align="left" src="https://media.giphy.com/media/jnSleazzIka85gzwbQ/giphy.gif" width="50px" /><h1> I'm Fang!</h1>
+<img align="left" src="https://media.giphy.com/media/jnSleazzIka85gzwbQ/giphy.gif" width="55px" />
+<img align="left" src="https://media.giphy.com/media/FyosTV6P77XuxQhie4/giphy.gif" width="19px" />
+<h1> I'm Fang!</h1>
 <p>
   I’m a software engineer with an interest in health and wellness technologies.
 </p>
@@ -38,58 +40,40 @@ Here are some ideas to get you started:
 <div>
   <h2>Interests</h2>
   <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img
-        alt="Javascript"
-        width="20px"
-        height="20px"
-        src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/javascript.svg"
-      />
-    </a>
-    <a href="https://reactjs.org/">
-      <img
-        alt="React"
-        width="20px"
-        height="20px"
-        src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/reactjs.svg"
-      />
-    </a>
-    <a href="https://sass-lang.com/">
-      <img
-        alt="Sass"
-        width="20px"
-        height="20px"
-        src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/sass.svg"
-      />
-    </a>
-    <a href="https://mui.com/">
-      <img
-        alt="Material UI"
-        width="20px"
-        height="20px"
-        src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/mui.svg"
-      />
-    </a>
-    <a href="https://storybook.js.org/">
-      <img
-        alt="Storybook"
-        width="20px"
-        height="20px"
-        src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/storybook.svg"
-      />
-    </a>
-    <a href="https://graphql.org/">
-      <img
-        alt="GraphQL"
-        width="20px"
-        height="20px"
-        src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/graphql.svg"
-      />
-    </a>
+    <pre>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
+          alt="Javascript"
+          width="20px"
+          height="20px"
+          src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/javascript.svg"
+        /></a>  <a href="https://reactjs.org/"><img
+          alt="React"
+          width="20px"
+          height="20px"
+          src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/reactjs.svg"
+        /></a>  <a href="https://sass-lang.com/"><img
+          alt="Sass"
+          width="20px"
+          height="20px"
+          src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/sass.svg"
+        /></a>  <a href="https://mui.com/"><img
+          alt="Material UI"
+          width="20px"
+          height="20px"
+          src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/mui.svg"
+        /></a>  <a href="https://storybook.js.org/"><img
+          alt="Storybook"
+          width="20px"
+          height="20px"
+          src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/storybook.svg"
+        /></a>  <a href="https://graphql.org/"><img
+          alt="GraphQL"
+          width="20px"
+          height="20px"
+          src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/graphql.svg"
+        /></a></pre>
   </div>
 </div>
 
-<br />
 <hr />
 <br />
 <a href="https://github.com/fang-w-shen?tab=repositories">
