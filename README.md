@@ -3,7 +3,8 @@
   alt="Background"
   width="100%"
 />
-<h1>👋 I'm Fang!</h1>
+
+<h1><img align="left" src="https://media.giphy.com/media/yriwfsrBEIRA2soJ3v/giphy.gif" width="50px" />  I'm Fang!</h1>
 <p>
   I’m a software engineer with an interest in health and wellness technologies.
 </p>
@@ -24,12 +25,14 @@ Here are some ideas to get you started:
 <div>
   <h2>About</h2>
   <div>
-    <li>⚡ I have a background in Biomedical Engineering</li>
-    <li>✨ I'm interested in User Experiences and Front End Development</li>
-    <li>
-      💬 Leave a comment if you'd like to discuss 0's to 1's and anything in
-      between
-    </li>
+    <img src="https://media.giphy.com/media/W0ATbQpUvHwfX4cHW5/giphy.gif" width="20px" /> 
+    ⚡ I have a background in Biomedical Engineering
+    <br/>
+    <img src="https://media.giphy.com/media/W0ATbQpUvHwfX4cHW5/giphy.gif" width="20px" /> 
+    ✨ I'm interested in User Experiences and Front End Development
+    <br/>
+    <img src="https://media.giphy.com/media/W0ATbQpUvHwfX4cHW5/giphy.gif" width="20px" /> 
+    💬 Leave a comment <a href="https://www.linkedin.com/in/fang-wen-shen/">@linkedin.com/in/fang-wen-shen</a> if you'd like to discuss 0's to 1's and anything in between
   </div>
 </div>
 <div>
@@ -88,13 +91,24 @@ Here are some ideas to get you started:
 
 <br />
 <hr />
-<img
-  align="right"
-  src="https://github-statistics.vercel.app/api?username=fang-w-shen&show_icons=true&hide=contribs,stars&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"
+<a href="https://github.com/fang-w-shen?tab=repositories" />
+  <img
+    align="right"
+    src="https://github-statistics.vercel.app/api/top-langs/?username=fang-w-shen&hide=ruby,php,asp&langs_count=4&hide_border=true&theme=vue&bg_color=45,ffffff,ece9e6" />
+</a>
+<a href="https://github.com/fang-w-shen?tab=repositories" />
+  <img
+    align="center"
+    src="https://github-statistics.vercel.app/api?username=fang-w-shen&show_icons=true&hide=contribs,stars&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&theme=vue&bg_color=45,ffffff,ece9e6"
 />
-<img
-  src="https://github-statistics.vercel.app/api/top-langs/?username=fang-w-shen&hide=ruby,php,asp&langs_count=4&hide_border=true"
-/>
+</a>
+<br/>
+<a href="https://github.com/fang-w-shen/ftris-arena">
+  <br/>
+  <img
+    align=""
+    src="https://github-statistics.vercel.app/api/pin/?username=fang-w-shen&repo=ftris-arena&hide_border=true&theme=vue&bg_color=45,ffffff,ece9e6" />
+</a>
 <hr/>
 
 <div>
