@@ -4,10 +4,9 @@
   width="100%"
 />
 
-
+<img align="left" src="https://media.giphy.com/media/jnSleazzIka85gzwbQ/giphy.gif" width="55px" />
+<img align="left" src="https://media.giphy.com/media/FyosTV6P77XuxQhie4/giphy.gif" width="17px" />
 <h1>
-  <img align="left" src="https://media.giphy.com/media/jnSleazzIka85gzwbQ/giphy.gif" width="55px" />
-  <img align="left" src="https://media.giphy.com/media/FyosTV6P77XuxQhie4/giphy.gif" width="17px" />
   I'm Fang!
 </h1>
 <p>
