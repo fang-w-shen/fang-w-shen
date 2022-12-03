@@ -91,22 +91,19 @@ Here are some ideas to get you started:
 
 <br />
 <hr />
-<a href="https://github.com/fang-w-shen?tab=repositories" />
+<a href="https://github.com/fang-w-shen?tab=repositories">
+  <img
+    align="left"
+    src="https://github-statistics.vercel.app/api?username=fang-w-shen&show_icons=true&hide=contribs,stars&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&theme=vue&bg_color=45,ffffff,ece9e6"/>
+</a>
+<a href="https://github.com/fang-w-shen?tab=repositories">
   <img
     align="right"
     src="https://github-statistics.vercel.app/api/top-langs/?username=fang-w-shen&hide=ruby,php,asp&langs_count=4&hide_border=true&theme=vue&bg_color=45,ffffff,ece9e6" />
 </a>
-<a href="https://github.com/fang-w-shen?tab=repositories" />
-  <img
-    align="center"
-    src="https://github-statistics.vercel.app/api?username=fang-w-shen&show_icons=true&hide=contribs,stars&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&theme=vue&bg_color=45,ffffff,ece9e6"
-/>
 </a>
-<br/>
 <a href="https://github.com/fang-w-shen/ftris-arena">
-  <br/>
   <img
-    align=""
     src="https://github-statistics.vercel.app/api/pin/?username=fang-w-shen&repo=ftris-arena&hide_border=true&theme=vue&bg_color=45,ffffff,ece9e6" />
 </a>
 <hr/>
