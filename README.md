@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/fang-w-shen?tab=repositories">
   <img
     align="right"
-    src="https://github-statistics.vercel.app/api/top-langs/?username=fang-w-shen&hide=ruby,php&card_width=400&langs_count=6&hide_border=true&title_color=0bb902&bg_color=45,ffffff,ece9e6" />
+    src="https://github-statistics.vercel.app/api/top-langs/?username=fang-w-shen&hide=asp,visual%20basic,batchfile,makefile,powershell&card_width=400&langs_count=6&hide_border=true&title_color=0bb902&bg_color=45,ffffff,ece9e6" />
 </a>
 <br />
 <a href="https://github.com/fang-w-shen/ftris-arena">
