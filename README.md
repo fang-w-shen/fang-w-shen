@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     ✨ I'm interested in User Experiences and Front End Development
     <br/>
     <img src="https://media.giphy.com/media/W0ATbQpUvHwfX4cHW5/giphy.gif" width="20px" /> 
-    💬 Leave a comment <a href="https://www.linkedin.com/in/fang-wen-shen/">@linkedin.com/in/fang-wen-shen</a> if you'd like to discuss 0's to 1's and anything in between
+    💬 Leave a comment <a href="https://www.linkedin.com/in/fang-w-shen/">@linkedin.com/in/fang-w-shen</a> if you'd like to discuss 0's to 1's and anything in between
   </div>
 </div>
 <div>
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
         />
       </a> 
       <img src="https://media.giphy.com/media/FyosTV6P77XuxQhie4/giphy.gif" width="2px" />
-      <a href="https://www.linkedin.com/in/fang-wen-shen/">
+      <a href="https://www.linkedin.com/in/fang-w-shen/">
         <img
           alt="LinkedInLogo"
           width="20px"
