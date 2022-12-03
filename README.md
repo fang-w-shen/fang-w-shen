@@ -120,7 +120,7 @@ Here are some ideas to get you started:
         <img
           alt="Portfolio"
           width="20px"
-          src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/portfolio.svg"
+          src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/portfolio.png"
         />
       </a>
       <a href="https://www.linkedin.com/in/fang-wen-shen/">
