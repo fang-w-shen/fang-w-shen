@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   <br />
   <img
     align="center"
-    src="https://github-statistics.vercel.app/api?username=fang-w-shen&show_icons=true&card_width=400&hide=contribs,stars&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6"/>
+    src="https://github-statistics.vercel.app/api?username=fang-w-shen&count_private=true&custom_title=GitHub%20Stats&show_icons=true&card_width=400&hide=contribs,stars&include_all_commits=true&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6"/>
 </a>
 
 <br />
