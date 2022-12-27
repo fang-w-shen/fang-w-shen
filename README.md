@@ -83,10 +83,11 @@ Here are some ideas to get you started:
 
 <hr />
 <br />
-<a href="https://github.com/fang-w-shen?tab=repositories">
+
+<a href="https://github.com/fang-w-shen/ftris-arena">
   <img
     align="center"
-    src="https://github-statistics.vercel.app/api?username=fang-w-shen&show_icons=true&card_width=400&hide=contribs,stars&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6"/>
+    src="https://github-statistics.vercel.app/api/pin/?username=fang-w-shen&repo=ftris-arena&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6" />
 </a>
 <a href="https://github.com/fang-w-shen?tab=repositories">
   <img
@@ -94,12 +95,13 @@ Here are some ideas to get you started:
     src="https://github-statistics.vercel.app/api/top-langs/?username=fang-w-shen&hide=less,scss,sass,asp,pug,visual%20basic,batchfile,makefile,powershell&card_width=400&langs_count=6&title_color=0bb902&bg_color=45,ffffff,ece9e6" />
 </a>
 <br />
-<a href="https://github.com/fang-w-shen/ftris-arena">
+<a href="https://github.com/fang-w-shen?tab=repositories">
   <br />
   <img
     align="center"
-    src="https://github-statistics.vercel.app/api/pin/?username=fang-w-shen&repo=ftris-arena&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6" />
+    src="https://github-statistics.vercel.app/api?username=fang-w-shen&show_icons=true&card_width=400&hide=contribs,stars&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6"/>
 </a>
+
 <br />
 <br />
 <hr/>
