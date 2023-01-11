@@ -4,10 +4,8 @@
   width="100%"
 />
 
-<img align="left" src="https://media.giphy.com/media/jnSleazzIka85gzwbQ/giphy.gif" width="55px" />
-<img align="left" src="https://media.giphy.com/media/FyosTV6P77XuxQhie4/giphy.gif" width="17px" />
 <h1>
-  I'm Fang!
+  👋 I'm Fang!
 </h1>
 <p>
   I’m a software engineer with an interest in health and wellness technologies.
