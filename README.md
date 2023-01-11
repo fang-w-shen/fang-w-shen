@@ -40,7 +40,12 @@ Here are some ideas to get you started:
 <div>
   <h2>Interests</h2>
   <div>
-    <pre><a href="https://www.typescriptlang.org/"><img
+    <pre><a href="https://nextjs.org/"><img
+          alt="NextJS"
+          width="20px"
+          height="20px"
+          src="https://raw.githubusercontent.com/fang-w-shen/fang-w-shen/main/assets/nextjs.svg"
+        /></a>  <a href="https://www.typescriptlang.org/"><img
           alt="TypeScript"
           width="20px"
           height="20px"
