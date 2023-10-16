@@ -90,19 +90,19 @@ Here are some ideas to get you started:
 <a href="https://github.com/fang-w-shen/ftris-arena">
   <img
     align="center"
-    src="https://github-statistics.vercel.app/api/pin/?username=fang-w-shen&repo=ftris-arena&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6" />
+    src="https://github-statistics.vercel.app/api/pin/?v=1&username=fang-w-shen&repo=ftris-arena&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6" />
 </a>
 <a href="https://github.com/fang-w-shen?tab=repositories">
   <img
     align="right"
-    src="https://github-statistics.vercel.app/api/top-langs/?username=fang-w-shen&hide=less,scss,sass,asp,pug,visual%20basic,batchfile,makefile,powershell&card_width=400&langs_count=6&title_color=0bb902&bg_color=45,ffffff,ece9e6" />
+    src="https://github-statistics.vercel.app/api/top-langs/?v=1&username=fang-w-shen&hide=less,scss,sass,asp,pug,visual%20basic,batchfile,makefile,powershell&card_width=400&langs_count=6&title_color=0bb902&bg_color=45,ffffff,ece9e6" />
 </a>
 <br />
 <a href="https://github.com/fang-w-shen?tab=repositories">
   <br />
   <img
     align="center"
-    src="https://github-statistics.vercel.app/api?username=fang-w-shen&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&show_icons=true&card_width=400&hide=contribs,stars&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6"/>
+    src="https://github-statistics.vercel.app/api?v=1&username=fang-w-shen&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&show_icons=true&card_width=400&hide=contribs,stars&title_color=0bb902&icon_color=0bb902&bg_color=45,ffffff,ece9e6"/>
 </a>
 
 <br />
